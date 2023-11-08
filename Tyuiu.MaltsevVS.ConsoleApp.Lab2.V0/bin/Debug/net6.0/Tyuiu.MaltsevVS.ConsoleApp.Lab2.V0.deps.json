@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tyuiu.MaltsevVS.ConsoleApp.Lab2.V0/1.0.0": {
+        "dependencies": {
+          "Tyuiu.MaltsevVS.ConsoleApp.Lab2.V0.Lib": "1.0.0"
+        },
+        "runtime": {
+          "Tyuiu.MaltsevVS.ConsoleApp.Lab2.V0.dll": {}
+        }
+      },
+      "Tyuiu.MaltsevVS.ConsoleApp.Lab2.V0.Lib/1.0.0": {
+        "runtime": {
+          "Tyuiu.MaltsevVS.ConsoleApp.Lab2.V0.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tyuiu.MaltsevVS.ConsoleApp.Lab2.V0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tyuiu.MaltsevVS.ConsoleApp.Lab2.V0.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

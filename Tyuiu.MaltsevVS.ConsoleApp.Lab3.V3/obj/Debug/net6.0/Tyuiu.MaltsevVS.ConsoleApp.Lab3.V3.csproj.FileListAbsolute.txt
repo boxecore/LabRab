@@ -1,0 +1,36 @@
+E:\Laba\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\bin\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.exe
+E:\Laba\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\bin\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.deps.json
+E:\Laba\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\bin\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.runtimeconfig.json
+E:\Laba\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\bin\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.dll
+E:\Laba\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\bin\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.pdb
+E:\Laba\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\bin\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.Lib.dll
+E:\Laba\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\bin\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.Lib.pdb
+E:\Laba\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\obj\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.csproj.AssemblyReference.cache
+E:\Laba\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\obj\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Laba\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\obj\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.AssemblyInfoInputs.cache
+E:\Laba\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\obj\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.AssemblyInfo.cs
+E:\Laba\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\obj\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.csproj.CoreCompileInputs.cache
+E:\Laba\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\obj\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.csproj.CopyComplete
+E:\Laba\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\obj\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.dll
+E:\Laba\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\obj\Debug\net6.0\refint\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.dll
+E:\Laba\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\obj\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.pdb
+E:\Laba\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\obj\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.genruntimeconfig.cache
+E:\Laba\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\obj\Debug\net6.0\ref\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.dll
+C:\Users\vmalt\OneDrive\Рабочий стол\LabRab-master\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\bin\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.exe
+C:\Users\vmalt\OneDrive\Рабочий стол\LabRab-master\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\bin\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.deps.json
+C:\Users\vmalt\OneDrive\Рабочий стол\LabRab-master\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\bin\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.runtimeconfig.json
+C:\Users\vmalt\OneDrive\Рабочий стол\LabRab-master\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\bin\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.dll
+C:\Users\vmalt\OneDrive\Рабочий стол\LabRab-master\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\bin\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.pdb
+C:\Users\vmalt\OneDrive\Рабочий стол\LabRab-master\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\bin\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.Lib.dll
+C:\Users\vmalt\OneDrive\Рабочий стол\LabRab-master\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\bin\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.Lib.pdb
+C:\Users\vmalt\OneDrive\Рабочий стол\LabRab-master\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\obj\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.csproj.AssemblyReference.cache
+C:\Users\vmalt\OneDrive\Рабочий стол\LabRab-master\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\obj\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vmalt\OneDrive\Рабочий стол\LabRab-master\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\obj\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.AssemblyInfoInputs.cache
+C:\Users\vmalt\OneDrive\Рабочий стол\LabRab-master\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\obj\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.AssemblyInfo.cs
+C:\Users\vmalt\OneDrive\Рабочий стол\LabRab-master\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\obj\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.csproj.CoreCompileInputs.cache
+C:\Users\vmalt\OneDrive\Рабочий стол\LabRab-master\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\obj\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.csproj.CopyComplete
+C:\Users\vmalt\OneDrive\Рабочий стол\LabRab-master\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\obj\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.dll
+C:\Users\vmalt\OneDrive\Рабочий стол\LabRab-master\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\obj\Debug\net6.0\refint\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.dll
+C:\Users\vmalt\OneDrive\Рабочий стол\LabRab-master\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\obj\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.pdb
+C:\Users\vmalt\OneDrive\Рабочий стол\LabRab-master\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\obj\Debug\net6.0\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.genruntimeconfig.cache
+C:\Users\vmalt\OneDrive\Рабочий стол\LabRab-master\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3\obj\Debug\net6.0\ref\Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3.dll
