@@ -56,7 +56,6 @@ namespace Tyuiu.MaltsevVS.ConsoleApp.Lab3.V3
             }
 
             Console.ReadKey();
-
         }
     }
 }

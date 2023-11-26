@@ -19,8 +19,13 @@ class Program
         Console.WriteLine("***************************************************************************");
 
         Console.WriteLine("Введите значение N: ");
+
         if (int.TryParse(Console.ReadLine(), out int N) && N > 0)
         {
+            Console.WriteLine("***************************************************************************");
+            Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
+            Console.WriteLine("***************************************************************************");
+
             double sum = SequenceCalculator.CalculateSum(N);
             Console.WriteLine("Сумма последовательности S = " + sum);
         }

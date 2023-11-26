@@ -34,6 +34,10 @@ class Program
 
         bool isInsideShadedArea = ShadedAreaCalculator.IsInsideShadedArea(x, y);
 
+        Console.WriteLine("***************************************************************************");
+        Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
+        Console.WriteLine("***************************************************************************");
+
         if (isInsideShadedArea)
             Console.WriteLine("Точка находится внутри заштрихованной области.");
         else
