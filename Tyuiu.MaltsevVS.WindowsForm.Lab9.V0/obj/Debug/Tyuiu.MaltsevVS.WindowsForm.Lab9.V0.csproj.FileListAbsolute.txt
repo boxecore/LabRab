@@ -1,0 +1,11 @@
+C:\Users\vmalt\OneDrive\Рабочий стол\LabRab-master\Tyuiu.MaltsevVS.WindowsForm.Lab9.V0\bin\Debug\Tyuiu.MaltsevVS.WindowsForm.Lab9.V0.exe.config
+C:\Users\vmalt\OneDrive\Рабочий стол\LabRab-master\Tyuiu.MaltsevVS.WindowsForm.Lab9.V0\bin\Debug\Tyuiu.MaltsevVS.WindowsForm.Lab9.V0.exe
+C:\Users\vmalt\OneDrive\Рабочий стол\LabRab-master\Tyuiu.MaltsevVS.WindowsForm.Lab9.V0\bin\Debug\Tyuiu.MaltsevVS.WindowsForm.Lab9.V0.pdb
+C:\Users\vmalt\OneDrive\Рабочий стол\LabRab-master\Tyuiu.MaltsevVS.WindowsForm.Lab9.V0\obj\Debug\Tyuiu.MaltsevVS.WindowsForm.Lab9.V0.csproj.AssemblyReference.cache
+C:\Users\vmalt\OneDrive\Рабочий стол\LabRab-master\Tyuiu.MaltsevVS.WindowsForm.Lab9.V0\obj\Debug\Tyuiu.MaltsevVS.WindowsForm.Lab9.V0.csproj.SuggestedBindingRedirects.cache
+C:\Users\vmalt\OneDrive\Рабочий стол\LabRab-master\Tyuiu.MaltsevVS.WindowsForm.Lab9.V0\obj\Debug\Tyuiu.MaltsevVS.WindowsForm.Lab9.V0.Form1.resources
+C:\Users\vmalt\OneDrive\Рабочий стол\LabRab-master\Tyuiu.MaltsevVS.WindowsForm.Lab9.V0\obj\Debug\Tyuiu.MaltsevVS.WindowsForm.Lab9.V0.Properties.Resources.resources
+C:\Users\vmalt\OneDrive\Рабочий стол\LabRab-master\Tyuiu.MaltsevVS.WindowsForm.Lab9.V0\obj\Debug\Tyuiu.MaltsevVS.WindowsForm.Lab9.V0.csproj.GenerateResource.cache
+C:\Users\vmalt\OneDrive\Рабочий стол\LabRab-master\Tyuiu.MaltsevVS.WindowsForm.Lab9.V0\obj\Debug\Tyuiu.MaltsevVS.WindowsForm.Lab9.V0.csproj.CoreCompileInputs.cache
+C:\Users\vmalt\OneDrive\Рабочий стол\LabRab-master\Tyuiu.MaltsevVS.WindowsForm.Lab9.V0\obj\Debug\Tyuiu.MaltsevVS.WindowsForm.Lab9.V0.exe
+C:\Users\vmalt\OneDrive\Рабочий стол\LabRab-master\Tyuiu.MaltsevVS.WindowsForm.Lab9.V0\obj\Debug\Tyuiu.MaltsevVS.WindowsForm.Lab9.V0.pdb
